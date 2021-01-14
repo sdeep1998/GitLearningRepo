@@ -1,4 +1,4 @@
 for(i=0;i<=10;i++){
 print('hello world');
-printf("hey ");
+printf("hey yo");
 }
